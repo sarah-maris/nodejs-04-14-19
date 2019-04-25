@@ -1,0 +1,6 @@
+TO RUN EXAMPLES:
+node examples/list-songs-by-artists.js Bisou
+node examples/create-song.js
+node examples/list-songs-by-artist-album.js Bisou Haumea
+node examples/list-songs-by-artists.js Dio
+node examples/list-songs-by-genre.js Chiptune

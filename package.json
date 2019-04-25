@@ -1,0 +1,21 @@
+{
+  "name": "songs-db",
+  "version": "1.0.0",
+  "description": "songsDB Implementation",
+  "main": "songs-db.js",
+  "scripts": {
+    "setup" : "node setup",
+    "lint": "standard",
+    "lint-fix": "standard --fix"
+  },
+  "keywords": [],
+  "author": "Sarah Maris",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "sequelize": "^5.7.5",
+    "sqlite3": "^4.0.6"
+  }
+}
